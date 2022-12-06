@@ -11,7 +11,7 @@ pip install selenium
 pip install bs4
 ```
 2. Download ChromeDriver (https://chromedriver.chromium.org/downloads) and place `chromedriver.exe` in the same directory as the Python script.
-3. Run the Python script. It will save as CSV with the timestamp of when the script was run.
+3. Run the Python script `aircraftscrape.py`. It will save as CSV with the timestamp of when the script was run.
 
 # Why not distribute the data?
 Because the ICAO terms and conditions says I shouldn't.
